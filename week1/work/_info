@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dW:/Quartus_Projects/FinalProject/week1
+vclickItRam
+Z1 !s110 1479765907
+!i10b 1
+!s100 B8EJiEUETRk6BfPCme@>D1
+II70c[M9k2Em7mPVCScQIg2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1479425051
+8clickItRam.v
+FclickItRam.v
+Z3 L0 40
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1479765907.000000
+Z6 !s107 quitRam.v|clickItRam.v|keyItRam.v|pressitRam.v|fill.v|inputCheck.v|rateDivision.v|ProjectWeek1.v|
+Z7 !s90 -reportprogress|300|ProjectWeek1.v|rateDivision.v|inputCheck.v|fill.v|pressitRam.v|keyItRam.v|clickItRam.v|quitRam.v|
+!i113 1
+nclick@it@ram
+vdisplayHEX
+Z8 !s110 1479844336
+!i10b 1
+!s100 KZh>9PO6OOE2OF@F>8cTF0
+IMA:f@Y0U;_KPjbVo5_70a1
+R2
+R0
+Z9 w1479841913
+Z10 8rateDivision.v
+Z11 FrateDivision.v
+L0 82
+R4
+r1
+!s85 0
+31
+Z12 !s108 1479844336.000000
+Z13 !s107 fill.v|inputCheck.v|rateDivision.v|ProjectWeek1.v|
+Z14 !s90 -reportprogress|300|ProjectWeek1.v|rateDivision.v|inputCheck.v|fill.v|
+!i113 1
+ndisplay@h@e@x
+vfill
+R8
+!i10b 1
+!s100 bh7@TD]8?aSjl>H8A3ZDk1
+I7djXA^72MP_XX9NNeKgbc2
+R2
+R0
+w1479843886
+8fill.v
+Ffill.v
+L0 3
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+vinputCheck
+R8
+!i10b 1
+!s100 JWToDHhoz4<W5bKeY70L:2
+I06e9F6I;lP?UJIVjLNP2m1
+R2
+R0
+w1479842305
+8inputCheck.v
+FinputCheck.v
+L0 11
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+ninput@check
+vkeyItRam
+R1
+!i10b 1
+!s100 e720Oh:6k24n2baYAhzSb1
+IH:g=VAz_dKi]WfFzil:@U2
+R2
+R0
+w1479503592
+8keyItRam.v
+FkeyItRam.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+nkey@it@ram
+vlfsr
+R8
+!i10b 1
+!s100 zU8jH@bil>M0EoPD2QW2I2
+IAkz6BjH@>XCF5fX;WZ2^D1
+R2
+R0
+Z15 w1479843880
+Z16 8ProjectWeek1.v
+Z17 FProjectWeek1.v
+L0 133
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+vpressitRam
+R1
+!i10b 1
+!s100 zXjZ<ZRB6]YU>ZdoKzCH=1
+Ic1HGWjhbg6DWTejB]DTFA3
+R2
+R0
+w1479503734
+8pressitRam.v
+FpressitRam.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+npressit@ram
+vProjectWeek1
+R8
+!i10b 1
+!s100 iM4DY0jIQ:m>GXGRKcGTh0
+IQV_b>?Hb9j9ng65:3@N>l3
+R2
+R0
+R15
+R16
+R17
+L0 3
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+n@project@week1
+vquitRam
+R1
+!i10b 1
+!s100 oVhXmie>oaeoiP^dQ75652
+IEa@Aoz0Wfi0kkff?5lHj<2
+R2
+R0
+w1479589762
+8quitRam.v
+FquitRam.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+nquit@ram
+vrateDivision
+R8
+!i10b 1
+!s100 8_hXZ?41_2C<jQXB39fgF3
+ILAcKD2`Q5hlNaTINCVIn;1
+R2
+R0
+R9
+R10
+R11
+L0 3
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+nrate@division
